@@ -6,3 +6,4 @@ commit 5
 bad commit 1
 commit 6
 bad commit 2
+bad commit 3
